@@ -30,7 +30,7 @@
             (drracket:check-syntax:set!d                       #(228 132 111))
             (drracket:check-syntax:their-obligation-style-pref #(152 196 186))
             (drracket:check-syntax:unk-obligation-style-pref   #( 74  69  67))
-            (drracket:check-syntax:unused-require             #(221 105 105))          
+            (drracket:check-syntax:unused-require              #(221 105 105))          
             )))
  
  
